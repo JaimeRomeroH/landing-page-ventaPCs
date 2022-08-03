@@ -8,8 +8,8 @@ function BarraNav(){
     <div className="contenedor-barraNav">
       <nav className="barraNavegacion">
         <img className="logo" src={logo} alt="logo"/>
-        <a href="">¿Quienes somos?</a>
-        <a href="">¿Que hacemos?</a>
+        <a className="link-barra" href="">¿Quienes somos?</a>
+        <a className="link-barra" href="">¿Que hacemos?</a>
       </nav>
     </div> 
    ); 
