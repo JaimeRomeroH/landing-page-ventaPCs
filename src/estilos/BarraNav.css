@@ -1,18 +1,23 @@
 .contenedor-barraNav{
+    width: 1100px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .barraNavegacion{
-    width: 1000px;
+    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     background-color: #FEFFE0;
 }
 
 .logo{
     width: 100px;
     height: 100px;
+}
+
+.link-barra{
+    font-weight: bold;
 }
